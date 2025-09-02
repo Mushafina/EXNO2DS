@@ -1,4 +1,4 @@
-# EXNO2DS
+<img width="1430" height="623" alt="image" src="https://github.com/user-attachments/assets/2e3e8fd5-f323-4adc-b792-084060fafafa" /># EXNO2DS
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
@@ -24,6 +24,13 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 ## CODING AND OUTPUT
         <<INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS>>
+```
+1.import pandas as pd
+  df=pd.read_csv("C:\\Users\\admin\\Downloads\\titanic_dataset.csv")
+  df
+<img width="1430" height="623" alt="image" src="https://github.com/user-attachments/assets/06444c09-796e-4ec5-b92b-9c73afee9213" />
+```
+
 
 # RESULT
         <<INCLUDE YOUR RESULT HERE>>
